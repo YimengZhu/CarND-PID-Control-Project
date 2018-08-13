@@ -63,4 +63,4 @@ Please (do your best to) stick to [Google's C++ style guide](https://google.gith
 3. Finally add a little Ki to make the vehicle driving in the central of the lane.
 
 ## The recording of a track
-The recording of a track loop can be found [here](https://youtu.be/W4CrNNKmwvw)
+The recording of a track loop can be found [here](https://youtu.be/ESwE8Puir8g)
